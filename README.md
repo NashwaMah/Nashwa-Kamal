@@ -23,12 +23,13 @@ Will be found in "Yalla Kora App _List of bugs.xlxs" file
 * Before run the project :
 
 1) Download Node.js 
-2) inside Project Terminal run below 
-  a) sudo npm install 
-  b) sudo  npm start
-  c) npm install testcafe
-  d) npm install axios
-  e)npm install dotenv
+2) inside Project Terminal run below :
+
+  ^ sudo npm install 
+  ^ sudo  npm start
+  ^ npm install testcafe
+  ^ npm install axios
+  ^ npm install dotenv
              
 --------------------------                    
 
