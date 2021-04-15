@@ -14,8 +14,9 @@ Will be found in "Yalla Kora App _List of bugs.xlxs" file
 
 # Automation Project
 
-Language  : Javascript 
-Framework : Test Cafe
+* Language  : Javascript 
+
+* Framework : Test Cafe
 
 -----------------------
 
