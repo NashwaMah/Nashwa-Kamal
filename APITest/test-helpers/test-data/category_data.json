@@ -1,0 +1,11 @@
+{
+    "newCategory": {
+        "name": "new category",
+        "id": "123456789"
+    },
+    "updateCategory": {
+        "name": "Update category",
+        "id": "123456789"
+    },
+    "limit": 10
+}

@@ -1,0 +1,27 @@
+{
+    "newProduct": {
+        "name": "New product",
+        "type": "string",
+        "price": 3000,
+        "shipping": 200,
+        "upc": "test",
+        "description": "test",
+        "manufacturer": "china",
+        "model": "2021",
+        "url": "new",
+        "image": "newnew"
+    },
+    "updateProduct": {
+        "name": "Update Product values",
+        "type": "string",
+        "price": 5000,
+        "shipping": 400,
+        "upc": "mew Upc",
+        "description": "test",
+        "manufacturer": "china",
+        "model": "2021",
+        "url": "new",
+        "image": "newnew"
+    },
+    "limit": 10
+}

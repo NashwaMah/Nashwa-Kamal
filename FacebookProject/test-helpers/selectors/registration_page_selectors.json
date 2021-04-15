@@ -1,0 +1,28 @@
+{
+    "createNewAccount":"a[data-testid='open-registration-form-button']",
+    "firstName":"input[name='firstname']",
+    "lastName":"input[name='lastname']",
+    "registrationEmail":"input[name='reg_email__']",
+    "password":"#password_step_input",
+    "month":"#month",
+    "day":"#day",
+    "year":"#year",
+    "female":"Female",
+    "male":"Male",
+    "custom":"Custom",
+    "submitSignup":"button[name='websubmit']" ,
+    "emailConfirmation": "input[name='reg_email_confirmation__']",
+    "customPronoun":"select[name='preferred_pronoun']",
+    "mobileSelectors":{
+        "createAccount":"#signup-button",
+        "firstNameMobile":"#firstname_input",
+        "lastNameMobile":"#lastname_input",
+        "nextButton":"button[value='Next']",
+        "contactInfoMobile":"#contactpoint_step_input",
+        "submitMobile":"button[name='submit']",
+        "female_mobile":"#Female",
+        "male_mobile" : "#Male",
+        "custome_mobile":"#Custom"
+
+    }
+}

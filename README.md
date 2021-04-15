@@ -1,0 +1,38 @@
+# Automation Project
+
+Language  : Javascript 
+Framework : Test Cafe
+
+
+Before run the project :
+--------------------------
+1) Download Node.js 
+2) inside Project Terminal run below 
+  a) sudo npm install 
+  b) sudo  npm start
+  c) npm install testcafe
+  d) npm install axios
+  e)npm install dotenv
+             
+                    
+
+To Run Facebook automation on :
+--------------------------------
+  Chrome  : npm run test:chrome 
+  Firefox  : npm run test:firefox 
+  Safari  : npm run test:safari 
+  edge  : npm run test:edge 
+  mobile (iphone X)  :pm run test:mobile 
+
+                     
+   
+To Run BestBuy API Test :
+-----------------------------
+npm run test:API
+
+                
+
+To Update Test data for Facebook Registration :
+------------------------------------------------
+Update json file ../test-helpers/test-data/facebookCredentials.js
+Update in .env file the Password for users

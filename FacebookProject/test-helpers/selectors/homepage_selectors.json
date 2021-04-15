@@ -1,0 +1,6 @@
+{
+    "homeIcon":"a[aria-label='Home']",
+    "mobileHomePage":"#bookmarks_flyout",
+    "span":"span",
+    "notNow":"Not Now"
+}

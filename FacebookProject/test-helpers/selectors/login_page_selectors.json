@@ -1,0 +1,8 @@
+{
+    "username":"input[name='email']",
+    "password":"input[name='pass']",
+    "login":"button[name='login']",
+    "browserTest":"title[id='pageTitle']",
+    "loginPageLink":"a[href='/login/']"
+
+}

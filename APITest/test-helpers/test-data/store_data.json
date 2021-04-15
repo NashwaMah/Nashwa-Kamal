@@ -1,0 +1,27 @@
+{
+    "newStore": {
+        "name": "Minnetonka",
+        "type": "BigBox",
+        "address": "13513 Ridgedale Dr",
+        "address2": "",
+        "city": "Hopkins",
+        "state": "MN",
+        "zip": "55305",
+        "lat": 44.969658,
+        "lng": -93.449539,
+        "services": {}
+    },
+    "updateStore": {
+        "name": "Minnetonka Update",
+        "type": "BigBox Update",
+        "address": "13513 Ridgedale Dr Update",
+        "address2": "Update",
+        "city": "Hopkins",
+        "state": "MN",
+        "zip": "55305",
+        "lat": 44.969658,
+        "lng": -93.449539,
+        "services": {}
+    },
+    "limit": 10
+}

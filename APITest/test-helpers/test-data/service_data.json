@@ -1,0 +1,9 @@
+{
+    "newService": {
+        "name": "new Service"
+    },
+    "updateService": {
+        "name": "Update Service"
+    },
+    "limit": 10
+}

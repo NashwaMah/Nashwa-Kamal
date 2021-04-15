@@ -1,0 +1,27 @@
+{
+  "name": "facebook-project",
+  "version": "1.0.0",
+  "description": "facebook Regsitration and Login",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "testcafe chrome  ./FacebookProject/tests  --skip-js-errors --disable-page-caching",
+    "test:firefox": "testcafe firefox ./FacebookProject/tests   --skip-js-errors --disable-page-caching",
+    "test:safari": "testcafe safari ./FacebookProject/tests  --skip-js-errors --disable-page-caching",
+    "test:edge": "testcafe edge ./FacebookProject/tests   --skip-js-errors --disable-page-caching",
+    "test:mobile": "testcafe chrome:emulation:device=iphone X ./FacebookProject/tests --skip-js-errors --disable-page-caching s",
+    "test:api": "testcafe chrome:headless  ./APITest/tests  --skip-js-errors --disable-page-caching"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NashwaMah/Nashwa-Kamal"
+  },
+  "author": "Nashwa Kamal",
+  "license": "ISC",
+  "homepage": "https://github.com/NashwaMah/Nashwa-Kamal/blob/main/README.md",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "testcafe": "^1.14.0"
+  },
+  "devDependencies": {}
+}
