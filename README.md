@@ -22,8 +22,8 @@ Will be found in "Yalla Kora App _List of bugs.xlxs" file
 
 * Before run the project :
 
-1) Download Node.js 
-2) inside Project Terminal run below :
+   1) Download Node.js 
+   2) inside Project Terminal run below :
 
        sudo npm install 
        sudo  npm start
